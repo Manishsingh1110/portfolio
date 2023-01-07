@@ -12,8 +12,7 @@ function Skills() {
                   <br></br>My Skills
                 </h1>
                 <p>
-                  At about this time of year, some months after New Year’s
-                  resolutions have been made and kept, or made and neglected.
+                The best way to improve  skills is to practice building websites and web applications.I have learned to  encounter new challenges and learn how to solve them.
                 </p>
               </div>
             </div>
@@ -45,11 +44,10 @@ function Skills() {
                   </i>
                 </div>
                 <h5>
-                  <a href="">Web Design</a>
+                  <a href="/">Web Design</a>
                 </h5>
                 <p>
-                  At about this time of year, some months after New Year’s
-                  resolutions have been made and kept, or made and neglected.
+                Web design refers to the process of designing the appearance and user experience of a website. It involves a range of activities, including layout design, content creation, and graphic design. Web designers use a variety of tools and techniques, such as HTML, CSS, and JavaScript, to create visually appealing and easy-to-use websites.
                 </p>
               </div>
             </div>
@@ -79,11 +77,10 @@ function Skills() {
                   </i>
                 </div>
                 <h5>
-                  <a href="">Web Development</a>
+                  <a href="/">Web Development</a>
                 </h5>
                 <p>
-                  If you are an entrepreneur, you know that your success cannot
-                  depend on the opinions of others. Like the wind, opinions.
+                Web development is the process of building and maintaining websites. It involves a range of activities, including the design and layout of the website, the development of the frontend and backend of the site, and the deployment of the website to a web server.
                 </p>
               </div>
             </div>
@@ -113,12 +110,10 @@ function Skills() {
                   </i>
                 </div>
                 <h5>
-                  <a href="">Data Handling</a>
+                  <a href="/">Data Handling</a>
                 </h5>
                 <p>
-                  Do you want to be even more successful? Learn to love learning
-                  and growth. The more effort you put into improving your
-                  skills.
+                Data handling refers to the process of storing, manipulating, and organizing data in a way that enables users to access and modify it effectively. This involves tasks such as inputting data, storing it in a database, and retrieving it as needed.
                 </p>
               </div>
             </div>
@@ -148,12 +143,10 @@ function Skills() {
                   </i>
                 </div>
                 <h5>
-                  <a href="">Apps Interface</a>
+                  <a href="/">Apps Interface</a>
                 </h5>
                 <p>
-                  Do you sometimes have the feeling that you’re running into the
-                  same obstacles over and over again? Many of my conflicts.
-                </p>
+                An app interface is the way in which a user interacts with a software application, typically through a graphical user interface (GUI) or a command-line interface (CLI). The interface enables the user to input commands, receive output, and access various features and functions of the app.</p>
 
               </div>
             </div>
@@ -183,12 +176,10 @@ function Skills() {
                   </i>
                 </div>
                 <h5>
-                  <a href="">Photography</a>
+                  <a href="/">Photography</a>
                 </h5>
                 <p>
-                  You’ve heard the expression, “Just believe it and it will
-                  come.” Well, technically, that is true, however, ‘believing’
-                  is not just thinking that.
+                Photography is the art of capturing light with a camera, usually through a lens, to create an image. It involves selecting and composing a scene or subject, adjusting the camera settings to achieve the desired exposure and focus, and capturing the image.
                 </p>
               </div>
             </div>
