@@ -44,7 +44,7 @@ function Projects() {
                                     </a>
                                 </div>
                                 <div className="col-md-4 col-sm-6 fashion ads">
-                                    <a id="demo04" href="https://data-science-association.netlify.app/" className="portfolio_item"> <img
+                                    <a id="demo04" href="https://dssa.engineer/" className="portfolio_item"> <img
                                         src="./assets/project/04.png" alt="/" className="img-fluid" />
                                         <div className="portfolio_item_hover">
                                             <div className="portfolio-border clearfix">
