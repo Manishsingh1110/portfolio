@@ -14,12 +14,14 @@ function App() {
   return (
     <>
     <Namesection/>
+    <div className="px-5">
     <About/>
     <Skills/> 
     <Resume/>
     <Experience/>
     <Projects/>
     <Contact/>
+    </div>
     <Footer/>
     </>
   );

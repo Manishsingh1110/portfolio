@@ -1,19 +1,18 @@
-import React from 'react'
 
 function Contact() {
   return (
     <section id="contact" class="contact">
-      <div class="container" data-aos="fade-up">
+      <div class="container pt-5 pb-5 mb-5 mt-5" >
 
       <div className="col-md-12">
                     <h4>06</h4>
-                    <h1 className="size-50">Contact <br /> Me</h1>
+                    <h2 className="size-50">Contact <br /> Me</h2>
                     <div className="hh-50"></div>
                 </div>
 
-        <div class="row mt-1">
+        <div class="row px-5">
 
-          <div class="col-lg-4">
+          <div class="col-lg-6">
             <div class="info">
               <div class="address">
                 <h5>Location:</h5>
@@ -34,7 +33,7 @@ function Contact() {
 
           </div>
 
-          <div class="col-lg-8 mt-5 mt-lg-0">
+          <div class="col-lg-6 mt-5 mt-lg-0">
 
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">

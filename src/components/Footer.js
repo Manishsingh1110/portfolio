@@ -1,6 +1,3 @@
-import React from 'react'
-import { FiFacebook } from 'react-icons/fi';
-import { FiTwitter } from 'react-icons/fi';
 import { FiInstagram } from 'react-icons/fi';
 import { FiLinkedin } from 'react-icons/fi';
 const Footer = () => {
@@ -9,13 +6,8 @@ const Footer = () => {
       <div class="container">
         <h3>Manish Singh</h3>
         <div class="social-links">
-          <a href="/" className="twitter"><FiTwitter /></a>
-          <a href="/" className="facebook "><FiFacebook /></a>
           <a href="/" className="instagram "><FiInstagram /></a>
-          <a href="/" className="linkedin "><FiLinkedin /></a>
-        </div>
-        <div class="copyright">
-          &copy; Copyright <strong><span>MyResume</span></strong>. All Rights Reserved
+          <a href="https://www.linkedin.com/in/manish---singh/" className="linkedin "><FiLinkedin /></a>
         </div>
         <div class="credits">
           Designed by <a href="/">Manish singh</a>

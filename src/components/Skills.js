@@ -8,10 +8,10 @@ function Skills() {
         <div className="row d-flex justify-content-center">
             <div className="menu-content  col-lg-7">
               <div className="title text-center">
-                <h1 className="mb-10">
+                <h2 className="mb-5">
                   <br></br>My Skills
-                </h1>
-                <p>
+                </h2>
+                <p className="mb-5">
                 The best way to improve  skills is to practice building websites and web applications.I have learned to  encounter new challenges and learn how to solve them.
                 </p>
               </div>
@@ -44,11 +44,10 @@ function Skills() {
                   </i>
                 </div>
                 <h5>
-                  <a href="/">Web Design</a>
+                  UI/UX designing
                 </h5>
                 <p>
-                Web design refers to the process of designing the appearance and user experience of a website. It involves a range of activities, including layout design, content creation, and graphic design. Web designers use a variety of tools and techniques, such as HTML, CSS, and JavaScript, to create visually appealing and easy-to-use websites.
-                </p>
+                I design user interfaces that are not only visually appealing but also intuitive and user-centric. My focus is on creating designs that enhance usability and deliver a smooth user experience across all devices.</p>
               </div>
             </div>
 
@@ -77,12 +76,10 @@ function Skills() {
                   </i>
                 </div>
                 <h5>
-                  <a href="/">Web Development</a>
+                  Website Development
                 </h5>
                 <p>
-                Web development is the process of building and maintaining websites. It involves a range of activities, including the design and layout of the website, the development of the frontend and backend of the site, and the deployment of the website to a web server.
-                </p>
-              </div>
+              I use Adobe Illustrator to craft custom graphics and illustrations that add visual depth and storytelling to websites and digital content, elevating overall brand presentation.</p> </div>
             </div>
 
             <div
@@ -110,75 +107,10 @@ function Skills() {
                   </i>
                 </div>
                 <h5>
-                  <a href="/">Data Handling</a>
+                  Illustrators
                 </h5>
                 <p>
                 Data handling refers to the process of storing, manipulating, and organizing data in a way that enables users to access and modify it effectively. This involves tasks such as inputting data, storing it in a database, and retrieving it as needed.
-                </p>
-              </div>
-            </div>
-
-            <div
-              class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4"
-              data-aos="zoom-in"
-              data-aos-delay="100"
-            >
-              <div class="icon-box iconbox-yellow">
-                <div class="icon">
-                  <svg
-                    width="100"
-                    height="100"
-                    viewBox="0 0 600 600"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      stroke="none"
-                      stroke-width="0"
-                      fill="#f5f5f5"
-                      d="M300,503.46388370962813C374.79870501325706,506.71871716319447,464.8034551963731,527.1746412648533,510.4981551193396,467.86667711651364C555.9287308511215,408.9015244558933,512.6030010748507,327.5744911775523,490.211057578863,256.5855673507754C471.097692560561,195.9906835881958,447.69079081568157,138.11976852964426,395.19560036434837,102.3242989838813C329.3053358748298,57.3949838291264,248.02791733380457,8.279543830951368,175.87071277845988,42.242879143198664C103.41431057327972,76.34704239035025,93.79494320519305,170.9812938413882,81.28167332365135,250.07896920659033C70.17666984294237,320.27484674793965,64.84698225790005,396.69656628748305,111.28512138212992,450.4950937839243C156.20124167950087,502.5303643271138,231.32542653798444,500.4755392045468,300,503.46388370962813"
-                    ></path>
-                  </svg>
-                  <i className="p-3">
-                    <FiDribbble />
-                  </i>
-                </div>
-                <h5>
-                  <a href="/">Apps Interface</a>
-                </h5>
-                <p>
-                An app interface is the way in which a user interacts with a software application, typically through a graphical user interface (GUI) or a command-line interface (CLI). The interface enables the user to input commands, receive output, and access various features and functions of the app.</p>
-
-              </div>
-            </div>
-            <div
-              class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4"
-              data-aos="zoom-in"
-              data-aos-delay="200"
-            >
-              <div class="icon-box iconbox-red">
-                <div class="icon">
-                  <svg
-                    width="100"
-                    height="100"
-                    viewBox="0 0 600 600"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      stroke="none"
-                      stroke-width="0"
-                      fill="#f5f5f5"
-                      d="M300,532.3542879108572C369.38199826031484,532.3153073249985,429.10787420159085,491.63046689027357,474.5244479745417,439.17860296908856C522.8885846962883,383.3225815378663,569.1668002868075,314.3205725914397,550.7432151929288,242.7694973846089C532.6665558377875,172.5657663291529,456.2379748765914,142.6223662098291,390.3689995646985,112.34683881706744C326.66090330228417,83.06452184765237,258.84405631176094,53.51806209861945,193.32584062364296,78.48882559362697C121.61183558270385,105.82097193414197,62.805066853699245,167.19869350419734,48.57481801355237,242.6138429142374C34.843463184063346,315.3850353017275,76.69343916112496,383.4422959591041,125.22947124332185,439.3748458443577C170.7312796277747,491.8107796887764,230.57421082200815,532.3932930995766,300,532.3542879108572"
-                    ></path>
-                  </svg>
-                  <i className="p-3">
-                    <FiDribbble />
-                  </i>
-                </div>
-                <h5>
-                  <a href="/">Photography</a>
-                </h5>
-                <p>
-                Photography is the art of capturing light with a camera, usually through a lens, to create an image. It involves selecting and composing a scene or subject, adjusting the camera settings to achieve the desired exposure and focus, and capturing the image.
                 </p>
               </div>
             </div>
