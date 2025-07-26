@@ -21,14 +21,8 @@ function Contact() {
 
               <div class="email">
                 <h5>Email:</h5>
-                <p>manish.singh21@comp.sce.edu.in</p>
+                <p>dsmanishsingh@gmail.com</p>
               </div>
-
-              <div class="phone">
-                <h5>Call:</h5>
-                <p>8591071831</p>
-              </div>
-
             </div>
 
           </div>
