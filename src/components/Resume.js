@@ -2,7 +2,7 @@ import React from 'react'
 
 const Resume = () => {
     return (
-        <section id="resume" class="resume p-5 mt-5 mb-5">
+        <section id="resume" class="resume extra-space mt-5 mb-5">
             <div class="container" data-aos="fade-up">
 
                 <div className="col-md-12  pt-5 pb-5">

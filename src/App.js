@@ -14,7 +14,7 @@ function App() {
   return (
     <>
     <Namesection/>
-    <div className="px-5">
+    <div className="extra-space">
     <About/>
     <Skills/> 
     <Resume/>

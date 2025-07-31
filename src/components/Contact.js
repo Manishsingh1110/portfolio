@@ -10,7 +10,7 @@ function Contact() {
                     <div className="hh-50"></div>
                 </div>
 
-        <div class="row px-5">
+        <div class="row extra-space">
 
           <div class="col-lg-6">
             <div class="info">

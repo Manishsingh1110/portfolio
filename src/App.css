@@ -755,3 +755,43 @@ h2 {
   #footer .credits {
     font-size: 13px;
   }
+
+  .extra-space{
+    padding: 5rem;
+  }
+
+  
+@media (max-width: 991px) {
+.extra-space{
+    padding: 3rem;
+  }
+  .contact .info h5 {
+    padding: 0 0 0 10px;
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: #45505b;
+  }
+  
+  .contact .info p {
+    padding: 0 0 0 20px;
+    margin-bottom: 0;
+    font-size: 14px;
+    color: #728394;
+  }
+   
+}
+
+@media (max-width: 768px) {
+ .extra-space{
+    padding: 2rem;
+  }
+
+   
+}
+
+@media (max-width: 500px) {
+    .extra-space{
+    padding: 1rem;
+
+}}

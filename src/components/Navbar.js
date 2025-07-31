@@ -15,7 +15,7 @@ export default function Navbar() {
     return (
     <header className="navbar-fixed-top">
       
-      <nav className={na ? `navbar active navbar-expand-lg px-5 navbar-fixed-top` : `navbar px-5 navbar-expand-lg`}>
+      <nav className={na ? `navbar active navbar-expand-lg px-2 navbar-fixed-top` : `navbar px-2 navbar-expand-lg`}>
         <div className="container-fluid">
           <a className="navbar-brand" href="/Resume"><img src='./assets/img/mlogo.png'alt="/" className="img-fluid hh-50"/></a>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
